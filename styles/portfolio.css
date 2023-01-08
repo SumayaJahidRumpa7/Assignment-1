@@ -7,8 +7,6 @@
 .nav-content{
    background-image: url(../images/banner/banner2.png);
    background-repeat: no-repeat;
-   width: 2000px;
-   height: 809px;
    
 }
 .nav-title{
@@ -39,8 +37,6 @@
     border: 0;
     padding:18px 20px ;
     margin-top: 10%; 
-    left: 1210px;
-top: 578px;  
 }
 
 /* banner section */
@@ -64,3 +60,27 @@ top: 578px;
     width: 430px;
     height: 90px;
 }  
+
+/* content section */
+
+.content-title{
+    text-align: center;
+    margin-top: 130px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 150px;
+}
+.content-container{
+    display: flex;
+    gap: 250px;
+    text-align:center ;
+}  
+.content-sub-title{
+    font-weight: 700;
+    font-size: 30px;
+}
+.content-description{
+    font-weight: 500;
+    font-size: 25px;
+}
