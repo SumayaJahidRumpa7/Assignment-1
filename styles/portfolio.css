@@ -121,7 +121,7 @@
     display: flex;
     margin-top: 150px;
     gap: 100px;
-    width: 1600px;
+    width: 1400px;
     height: 400px;
     
 }
@@ -153,7 +153,7 @@ input{
 .contact input[type=text]   {
     padding: 5px;
     border-color: white;
-    width:100%;
+    width:80%%;
     margin-bottom: 5px;
     
     color: white;
