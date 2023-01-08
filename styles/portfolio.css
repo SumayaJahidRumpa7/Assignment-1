@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+    margin: 5px;
     font-family: 'Open Sans', sans-serif;;
 }
 
@@ -36,13 +36,14 @@
     font-size: 20px;
     border: 0;
     padding:18px 20px ;
-    margin-top: 10%; 
+    margin-top: 5%;
+    margin-left: 75%;
 }
 
 /* banner section */
 .banner{
     display: flex;
-    margin-top: 100px;
+    margin-top: 150px;
 }
 .banner-title{
     font-weight: 700;
@@ -73,7 +74,7 @@
 }
 .content-container{
     display: flex;
-    gap: 250px;
+    gap: 200px;
     text-align:center ;
 }  
 .content-sub-title{
@@ -111,6 +112,7 @@
     font-size: 20px;
     border: 0;
     padding:18px 20px ;
+    margin-left: 27%;
 }
 
 /* contact styles */
@@ -119,6 +121,9 @@
     display: flex;
     margin-top: 150px;
     gap: 100px;
+    width: 1600px;
+    height: 400px;
+    
 }
 .contact .contact-title{
     text-align: left;
@@ -134,7 +139,7 @@
      text-align: left;   
 }
 .contact .contact-icons{
-   
+   text-decoration: none;
 }
 .contact .contact-subscription{
     text-align: left;
